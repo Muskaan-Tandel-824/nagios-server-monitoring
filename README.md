@@ -15,3 +15,11 @@ Monitor CPU usage of an EC2 server using Nagios Core.
 ## Result
 CPU usage is monitored in real time with OK/WARNING/CRITICAL states.
 
+##ScreenShots
+![AWS-Console](screenshots/aws-console.png)
+
+![Dashboard](screenshots/dashboard.png)
+
+![CPU-Load](screenshots/cpu-load.png)
+
+ 
