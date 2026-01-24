@@ -23,8 +23,6 @@ CPU usage is monitored in real time with OK/WARNING/CRITICAL states.
 ![CPU-Load](screenshots/cpu-load.png)
 
 
-
-## 👤 Linkedin
-
-**Muskan Tandel**  
-🔗 LinkedIn: https://www.linkedin.com/in/Muskaan-Tandel/
+#You Can Connect With me 
+## 👤  LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/muskaan-tandel-b59bb8343/
