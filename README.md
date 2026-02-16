@@ -1,21 +1,21 @@
 # Nagios Server Monitoring Project
 
-# Objective
+# Objective :
 Monitor CPU usage of an EC2 server using Nagios Core.
 
-# Platform
-- AWS EC2
+# Platform :
+- AWS EC2 
 - Amazon Linux 2023
 
-# Features
+# Features :
 - Nagios Core compiled from source
 - Web-based monitoring dashboard
 - CPU Load monitoring
 
-# Result
+# Result :
 CPU usage is monitored in real time with OK/WARNING/CRITICAL states.
 
-##ScreenShots
+##ScreenShots :
 ![AWS-Console](screenshots/aws-console.png)
 
 ![Dashboard](screenshots/nagios-dashboard.png)
