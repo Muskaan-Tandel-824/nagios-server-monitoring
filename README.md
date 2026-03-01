@@ -35,6 +35,16 @@ Monitor CPU usage of an EC2 server using Nagios Core.
 # Result :
 CPU usage is monitored in real time with OK/WARNING/CRITICAL states.
 
+## Access Nagios Dashboard
+
+Open browser and type:
+
+http://<Your-EC2-Public-IP>/nagios
+
+Login using:
+Username: nagiosadmin
+Password: (your created password) 
+
 ##ScreenShots :
 ![AWS-Console](screenshots/aws-console.png)
 
