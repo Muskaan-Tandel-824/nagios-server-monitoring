@@ -3,10 +3,19 @@
 # Objective :
 Monitor CPU usage of an EC2 server using Nagios Core.
 
-# Platform :
-- AWS EC2 
-- Amazon Linux 2023
+## Technologies Used
+- AWS EC2
+- Amazon Linux
+- Nagios Core
+- Apache
+- Linux Commands
 
+## Prerequisites
+- AWS Account
+- EC2 Instance
+- Basic Linux Knowledge
+- Internet Connection
+- 
 # Features :
 - Nagios Core compiled from source
 - Web-based monitoring dashboard
