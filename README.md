@@ -21,6 +21,17 @@ Monitor CPU usage of an EC2 server using Nagios Core.
 - Web-based monitoring dashboard
 - CPU Load monitoring
 
+## Installation Steps
+
+1. Launch EC2 instance.
+2. Connect to EC2 using SSH.
+3. Update system packages.
+4. Install required dependencies.
+5. Download Nagios Core.
+6. Compile and install Nagios.
+7. Install Nagios plugins.
+8. Start Nagios and Apache service.
+
 # Result :
 CPU usage is monitored in real time with OK/WARNING/CRITICAL states.
 
