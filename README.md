@@ -32,7 +32,10 @@ Monitor CPU usage of an EC2 server using Nagios Core.
 7. Install Nagios plugins.
 8. Start Nagios and Apache service.
 
-# Result :
+## Project Outcome
+
+Successfully installed and configured Nagios Core on AWS EC2 
+and monitored CPU performance with alert system.
 CPU usage is monitored in real time with OK/WARNING/CRITICAL states.
 
 ## Access Nagios Dashboard
