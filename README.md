@@ -15,7 +15,7 @@ Monitor CPU usage of an EC2 server using Nagios Core.
 - EC2 Instance
 - Basic Linux Knowledge
 - Internet Connection
-- 
+  
 # Features :
 - Nagios Core compiled from source
 - Web-based monitoring dashboard
